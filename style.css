@@ -1,0 +1,20 @@
+h1 {
+  text-align: center;
+}
+
+input {
+  width: 100px;
+}
+
+.container {
+  text-align: center;
+}
+
+button#calculate {
+  margin-top: 20px;
+}
+
+#result {
+  font-size: 20px;
+  margin-top: 20px;
+}
